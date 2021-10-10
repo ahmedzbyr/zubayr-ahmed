@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Kerberos on a dataproc cluster.](https://ahmedzbyr.gitlab.io/gcp/dataproc-kerberos/)
 - [Setting up Scheduled dataflow backups using Batch templates.](https://ahmedzbyr.gitlab.io/gcp/cloud-scheduler-dataflow/)
 - [Setting up Postgres using Dockerfile.](https://ahmedzbyr.gitlab.io/database/postgres-dockerfile/)
 - [Setting up Postgres on Docker.](https://ahmedzbyr.gitlab.io/database/postgres-on-docker/)
 - [Python - Virtual Environment.](https://ahmedzbyr.gitlab.io/python/python-virtual-env/)
-- [Cloud VPN - GCP Learning Notes.](https://ahmedzbyr.gitlab.io/gcplearning/cloud-vpn/)
 <!-- BLOG-POST-LIST:END -->
 
 
